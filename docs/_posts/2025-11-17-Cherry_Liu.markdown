@@ -15,3 +15,9 @@ today i learned about Git and how helpful it is, we also had a workshop on the t
 it was good to see the code working and running, but it was frustrating at times, in the end i still got everything to work so its all good
 at lunch i played pool again with my friends and i tuned and played the guitar for a bit before going bavk to play a game of pool.
 today was very different to yesterday as yesterday we didnt do any coding and it was all games but today we got an idea of what coding would be like 
+---
+# Wednesday 19th nov, 2025
+this morning we did our daily stand up and talked about what we did in the previous day,i said i really enjoyed doing python and crack a million passwords, that was interesting to do and i learned about passwords being hashed.
+today we have a workshop on the history of computing, which would probably be fun and we would gain a lot of knowledge from it.
+next we have bash/command line, i dont really know what that is but it will be interesting to learn about.
+after that we have student life, im not sure what that is either. after lunch we have engineering task which im excited about because im interested in engineering.
