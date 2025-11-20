@@ -24,4 +24,14 @@ after that we have student life, im not sure what that is either. after lunch we
 # thursday 20th nov, 2025
 yesterday we had a really interesting talk about the history of computers which i really enjoyed. we did bash and i think it was pretty easy to get the hang of it. then we had a student life talk and it was nice hearing everyones career paths and choices, it gives me hope that i still have a lot of time to find out what i would li,e to do because i still havent figured that out.
 after lunch we had an engineering task which was really fun because we had to make a functioning roller coaster out of straws and tape and make sure the ball can use the roller coaster,i enjoyed the team work that was involved in builidng and coming up with the idea of the roller coaster, in the end we had to rush to get it done because time was almost up and i think it wouldve worked if we had more time which we didnt.
-today we did our stand up and had brekfast, the people workinf here do this every thursday.
+today we did our stand up and had brekfast, the people working here do this every thursday.
+we had an AI talk with james this morning i learned a lot from that talk and it was interesting. then we had a workshop on coral reef consensus, where we had to identify the corals, i think that task was pretty relaxing although i think most of the corals looked the same.
+lunch was great as always my freinds and i were chatting abot a lot of different topics and we had a great laugh about pet stories.
+after lunch we did a sustainability project which at first i was really nervous about because i thought i had to do it alone but turns out i had a partner, Aoibhe. we went up and presented it last and it was better than what i imagined as i was worried beforehand.
+tomorrow is my last day of work experience at red hat which im very sad, i had a really good time here 
+i think tomorrow will be really fun as i heard Jennifer saying she was ordering pizza and we were testing something, maybe making racecars which is really nice.
+and after this i will be back at school trying to get my enterprise busniness working i have all the lip gloss made i hope they sell or our money will be gone to waste but i think well find a way to sell all of them, we still have to figure out how to get our logo on the tube and the packaging and make business cards. i already made the socials so thats all ready to go.im excited to be doing enterprise in december. which would be the first time ive ever tried starting a business 
+my friends and i worked really hard on it and i spent late nights working on the lip gloss and designing it and making templates and different packaging sizes 
+red hat is great and i think i learned a lot from the place and gained so much knowledge.
+my teacher ms o sullivan came to check up on me and leah
+
