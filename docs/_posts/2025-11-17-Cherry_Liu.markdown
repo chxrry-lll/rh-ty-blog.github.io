@@ -21,3 +21,7 @@ this morning we did our daily stand up and talked about what we did in the previ
 today we have a workshop on the history of computing, which would probably be fun and we would gain a lot of knowledge from it.
 next we have bash/command line, i dont really know what that is but it will be interesting to learn about.
 after that we have student life, im not sure what that is either. after lunch we have engineering task which im excited about because im interested in engineering.
+# thursday 20th nov, 2025
+yesterday we had a really interesting talk about the history of computers which i really enjoyed. we did bash and i think it was pretty easy to get the hang of it. then we had a student life talk and it was nice hearing everyones career paths and choices, it gives me hope that i still have a lot of time to find out what i would li,e to do because i still havent figured that out.
+after lunch we had an engineering task which was really fun because we had to make a functioning roller coaster out of straws and tape and make sure the ball can use the roller coaster,i enjoyed the team work that was involved in builidng and coming up with the idea of the roller coaster, in the end we had to rush to get it done because time was almost up and i think it wouldve worked if we had more time which we didnt.
+today we did our stand up and were going to get brrakfast soon
